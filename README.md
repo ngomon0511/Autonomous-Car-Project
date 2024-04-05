@@ -1,0 +1,1 @@
+Welcome to my microcontroller project. This project in my course "Practice of Micro- Processors and Embedded Systems". The main purpose of project is reading Encoder to control DC servo motor, reading Infrare Sensor, Utrasonic Sensor and connecting between STM32 and Jeson Nano.
